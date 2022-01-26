@@ -48,5 +48,5 @@ img {
   background: rgb(179, 214, 198);
 }
 .columns > div:nth-of-type(4n + 3) {
-  background: red;
+  background: rgb(220, 234, 178);
 }
